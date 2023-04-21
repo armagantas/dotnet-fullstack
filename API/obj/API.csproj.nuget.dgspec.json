@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {}
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+        "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\obj\\",
+        "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,10 +45,18 @@
               "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },

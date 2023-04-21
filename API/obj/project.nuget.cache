@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjsXcD1Eq74WpHRZ9vbAi9fRFcXGynbMpEzxKQBTB+qutCHBCF60dGoM2Ex13SLynGcgBYH/Lu2zz0UAK4/urw==",
+  "dgSpecHash": "wUb3YmpAweAz6e4a5Fn1Tp//6KixLX4CQK7rSnCnEI1G4pHoxfGC2w8bVjghGCk0zUOz+Ig/46nvZz8Lg72RLA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\armag\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
@@ -14,6 +14,7 @@
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.5\\microsoft.entityframeworkcore.sqlite.7.0.5.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.5\\microsoft.entityframeworkcore.sqlite.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

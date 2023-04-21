@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {}
+    "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {
+    "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+        "projectPath": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\obj\\",
+        "outputPath": "c:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +42,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUb3YmpAweAz6e4a5Fn1Tp//6KixLX4CQK7rSnCnEI1G4pHoxfGC2w8bVjghGCk0zUOz+Ig/46nvZz8Lg72RLA==",
+  "dgSpecHash": "A0DbfdDT48/voHa847M4a0vHJcxx1L5daX55JIAu/hcsk3lqiTl4zr/CsUkMcMLmp2m4eVQgQkczbDVTQ+bhoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\armag\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",

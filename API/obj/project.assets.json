@@ -1757,11 +1757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\API.csproj",
+      "projectPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
       "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\dotnet-fullstack\\API\\obj\\",
+      "outputPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",

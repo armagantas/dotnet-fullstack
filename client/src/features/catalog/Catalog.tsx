@@ -1,3 +1,11 @@
+import {
+  Avatar,
+  Button,
+  List,
+  ListItem,
+  ListItemAvatar,
+  ListItemText,
+} from "@mui/material";
 import { Product } from "../../app/models/product";
 
 interface Props {
@@ -7,15 +15,22 @@ interface Props {
 
 export default function Catalog({ products, addProduct }: Props) {
   return (
-    <div>
-      <ul>
+    <>
+      <List>
         {products.map((product) => (
-          <li key={product.id}>
-            {product.name} - {product.price}
-          </li>
+          <ListItem key={product.name}>
+            <ListItemAvatar>
+              <Avatar src={product.PictureUrl} />
+            </ListItemAvatar>
+            <ListItemText>
+              {product.name} - {product.price}
+            </ListItemText>
+          </ListItem>
         ))}
-      </ul>
-      <button onClick={addProduct}>Add Product</button>
-    </div>
+      </List>
+      <Button variant="contained" onClick={addProduct}>
+        Add Product
+      </Button>
+    </>
   );
 }

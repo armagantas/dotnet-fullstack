@@ -7,7 +7,7 @@ interface Props {
 
 export default function ProductCard({ product }: Props) {
   return (
-    <ListItem key={product.id}>
+    <ListItem key={product.name}>
       <ListItemAvatar>
         <Avatar src={product.PictureUrl} />
       </ListItemAvatar>

@@ -6,7 +6,6 @@ interface Props {
 }
 
 export default function ProductCard({ product }: Props) {
-  console.log(product.pictureUrl);
   return (
     <ListItem key={product.name}>
       <ListItemAvatar>

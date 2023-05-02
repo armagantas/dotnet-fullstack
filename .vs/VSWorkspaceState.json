@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API"
+    "\\API",
+    "\\API\\Controllers",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\layout",
+    "\\client\\src\\app\\models",
+    "\\client\\src\\features",
+    "\\client\\src\\features\\catalog"
   ],
   "SelectedNode": "\\API\\API.csproj",
   "PreviewInSolutionExplorer": false

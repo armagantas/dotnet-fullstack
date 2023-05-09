@@ -1,5 +1,4 @@
 import { ThemeProvider } from "@emotion/react";
-import Catalog from "../../features/catalog/Catalog";
 import Header from "./Header";
 import { Container, CssBaseline, createTheme } from "@mui/material";
 import { useState } from "react";

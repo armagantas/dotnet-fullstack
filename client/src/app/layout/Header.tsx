@@ -37,6 +37,14 @@ const rightLinks = [
   },
 ];
 
+const navStyles = {
+  color: "inherit",
+  textDecoration: "none",
+  typography: "h6",
+  "&:hover": { color: "grey.500" },
+  "&.active": { color: "text.secondary" },
+};
+
 interface Props {
   darkMode: boolean;
   handleThemeChange: () => void;
@@ -46,23 +54,13 @@ export default function Header({ darkMode, handleThemeChange }: Props) {
   return (
     <AppBar position="static" sx={{ mb: 4 }}>
       <Toolbar>
-        <Typography
-          variant="h6"
-          component={NavLink}
-          to="/"
-          sx={{ color: "inherit", textDecoration: "none" }}
-        >
+        <Typography variant="h6" component={NavLink} to="/" sx={navStyles}>
           StoreApp
         </Typography>
         <Switch checked={darkMode} onChange={handleThemeChange} />
         <List sx={{ display: "flex" }}>
           {midLinks.map(({ title, path }) => (
-            <ListItem
-              component={NavLink}
-              to={path}
-              key={path}
-              sx={{ color: "inherit", typography: "h6" }}
-            >
+            <ListItem component={NavLink} to={path} key={path} sx={navStyles}>
               {title.toUpperCase()}
             </ListItem>
           ))}
@@ -76,12 +74,7 @@ export default function Header({ darkMode, handleThemeChange }: Props) {
 
         <List sx={{ display: "flex" }}>
           {rightLinks.map(({ title, path }) => (
-            <ListItem
-              component={NavLink}
-              to={path}
-              key={path}
-              sx={{ color: "inherit", typography: "h6" }}
-            >
+            <ListItem component={NavLink} to={path} key={path} sx={navStyles}>
               {title.toUpperCase()}
             </ListItem>
           ))}

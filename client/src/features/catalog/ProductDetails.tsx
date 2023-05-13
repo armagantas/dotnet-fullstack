@@ -9,6 +9,8 @@ export default function ProductDetails() {
   const [product, setProduct] = useState<Product | null>(null);
   const [loading, setLoading] = useState(true);
 
+  console.log(id);
+
   useEffect(() => {
     axios
       .get(`http://localhost:5000/api/products/${id}`)

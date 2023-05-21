@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {}
+    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj": {
+    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\API.csproj",
+        "projectPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\api\\API.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\API\\obj\\",
+        "outputPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\dotnet-fullstack\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",
